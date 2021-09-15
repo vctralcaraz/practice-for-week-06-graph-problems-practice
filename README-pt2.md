@@ -56,4 +56,4 @@ starting from the row and column.
 visited set.
 
 
-[starter]: https://github.com/appacademy/practice-for-week-06-graphs-island-size-practice
+[starter]: https://github.com/appacademy/practice-for-week-06-graph-problems-practice

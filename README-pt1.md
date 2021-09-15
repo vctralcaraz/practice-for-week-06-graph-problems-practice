@@ -78,4 +78,4 @@ excluded.
 
 Read the specs in `test/island-specs.js` for more details.
 
-[starter]: https://github.com/appacademy/practice-for-week-06-graphs-island-size-practice
+[starter]: https://github.com/appacademy/practice-for-week-06-graph-problems-practice
